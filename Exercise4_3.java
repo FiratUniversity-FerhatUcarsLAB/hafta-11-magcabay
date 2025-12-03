@@ -23,7 +23,7 @@ public class Exercise4_3 {
     }
 }
 
-
+/*
 main başlar: "No, I " (yan yana)
 
 zoop çağrılır -> baffle çağrılır -> " wug" (yan yana)
@@ -50,3 +50,5 @@ Tam Çıktı:
     No, I  wug.
  You wugga  wug.
 I  wug.
+*/
+
